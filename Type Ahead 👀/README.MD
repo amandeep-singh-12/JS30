@@ -1,0 +1,1 @@
+fetch method that fetches resources and returns a Promise containing the response in a Response object. We'll use this method to get our data from the provided endpoint, convert the response to JSON, and then push the items into our array.
